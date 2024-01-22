@@ -17,7 +17,7 @@ http://localhost:3003/gollum/create/Home -> works (normal scenario)
 
 http://localhost:3004/gollum/create/Home -> works (normal scenario with base path)
 
-http://localgollum.chardskarth.me:3003/ -> not working
+http://localgollum.chardskarth.me:3002/ -> not working
 
-http://local.chardskarth.me:3003/gollum -> not working (with basepath)
+http://local.chardskarth.me:3002/gollum -> not working (with basepath)
 
